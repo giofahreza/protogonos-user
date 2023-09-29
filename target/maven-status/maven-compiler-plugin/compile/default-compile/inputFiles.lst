@@ -1,2 +1,6 @@
-/Users/io/Documents/dev/java/giofahreza/src/main/java/com/giofahreza/protogonos/user/UserApplication.java
-/Users/io/Documents/dev/java/giofahreza/src/main/java/com/giofahreza/protogonos/user/AuthController.java
+/Users/io/Documents/dev/java/giofahreza/src/main/java/com/giofahreza/protogonos/model/User.java
+/Users/io/Documents/dev/java/giofahreza/src/main/java/com/giofahreza/protogonos/controller/CustomErrorController.java
+/Users/io/Documents/dev/java/giofahreza/src/main/java/com/giofahreza/protogonos/Main.java
+/Users/io/Documents/dev/java/giofahreza/src/main/java/com/giofahreza/protogonos/repository/UserRepository.java
+/Users/io/Documents/dev/java/giofahreza/src/main/java/com/giofahreza/protogonos/controller/AuthController.java
+/Users/io/Documents/dev/java/giofahreza/src/main/java/com/giofahreza/protogonos/service/UserService.java

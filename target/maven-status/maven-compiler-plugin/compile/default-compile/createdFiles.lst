@@ -1,2 +1,6 @@
-com/giofahreza/protogonos/user/UserApplication.class
-com/giofahreza/protogonos/user/AuthController.class
+com/giofahreza/protogonos/controller/CustomErrorController.class
+com/giofahreza/protogonos/controller/AuthController.class
+com/giofahreza/protogonos/model/User.class
+com/giofahreza/protogonos/Main.class
+com/giofahreza/protogonos/repository/UserRepository.class
+com/giofahreza/protogonos/service/UserService.class

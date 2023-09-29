@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: com.giofahreza.protogonos.user.UserApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 5.233 s <<< FAILURE! - in com.giofahreza.protogonos.user.UserApplicationTests
+contextLoads  Time elapsed: 0.022 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'authController': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'APP_PORT' in value "${APP_PORT}"
+Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'APP_PORT' in value "${APP_PORT}"
+
